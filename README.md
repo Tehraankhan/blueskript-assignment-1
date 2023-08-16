@@ -15,7 +15,7 @@ clone this repo
 ```bash
 git clone https://github.com/Tehraankhan/blueskript-assignment-1.git
 ```
-install all defendancies
+install all dependancies
 
 ```bash
 npm install
