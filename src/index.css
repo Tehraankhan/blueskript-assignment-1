@@ -1,0 +1,79 @@
+body {
+
+  background-color: #91c9cd;
+}
+
+.container-1 {
+
+  margin: 41px auto;
+  width: 961px;
+  height: 100px;
+
+
+}
+
+.container-1 h1 {
+  text-align: center;
+  margin: 0px 0px;
+  font-size: 40px;
+}
+
+.Input-1 {
+
+  background: #dfffe0;
+  width: 745px;
+  height: 40px;
+  margin: 15px 25px;
+  border-radius: 5px;
+  font-size: 20px;
+
+  border: none;
+  padding: 2px 8px;
+}
+
+.Add-btn {
+
+
+  height: 40px;
+  width: 106px;
+  border: none;
+  margin: 0px 18px;
+  border-radius: 6px;
+  font-size: 20px;
+  cursor: pointer;
+
+  background-color: rgba(98, 98, 255, 0.644);
+  color: white;
+}
+
+
+
+.container-3 {
+  background-color: #c4f9ff85;
+  width: 900px;
+  height: 4.5rem;
+  font-size: 10px;
+
+  border-radius: 11px;
+  margin: 11px auto;
+}
+
+.container-3 h1 {
+
+
+  margin: -49px 52px;
+}
+
+.Delete-btn {
+
+  position: relative;
+  border: none;
+  background: none;
+  float: right;
+  margin: 27px 4px;
+}
+
+.Input-2 {
+  margin: 29px 17px;
+
+}
